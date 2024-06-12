@@ -1,7 +1,6 @@
 <?php
 require ('abstract.databoundobject.php');
 class Twitter extends DataBoundObject {
-    protected $ID;
     protected $Url;
     protected $AuthorName;
     protected $AuthorUrl;
