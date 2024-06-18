@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+#intelForm {
+    margin-top: 20px;
+}
+
+#intelForm input {
+    width: 80%;
+    padding: 10px;
+}
+
+#intelForm button {
+    padding: 10px;
+}
+
+.tables-list, .form-container {
+    margin-top: 20px;
+}
+
+#resultContainer {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
